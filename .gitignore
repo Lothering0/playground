@@ -1,2 +1,21 @@
 node_modules/
 dist/
+
+# JavaScript/TypeScript files
+*.js
+*.ts
+
+# Vue files
+*.vue
+
+# Haskell files
+*.hs
+Main
+*.o
+*.hi
+
+# Python files
+*.py
+
+# Plain text files
+*.txt
