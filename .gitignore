@@ -17,5 +17,12 @@ Main
 # Python files
 *.py
 
+# Data transfer formats
+*.json
+!tsconfig.json
+!package*.json
+*.yaml
+!.*haskell*.yaml
+
 # Plain text files
 *.txt
